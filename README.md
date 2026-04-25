@@ -18,5 +18,8 @@ This project is a Python-based image batch editor built using PIL (Pillow). It a
 ## ▶️ How to Run
 ```bash
 python main.py
+## 📸 Demo
+
 ![Before](images/before.png)
+
 ![After](images/after.png)
