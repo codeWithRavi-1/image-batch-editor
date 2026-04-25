@@ -20,6 +20,6 @@ This project is a Python-based image batch editor built using PIL (Pillow). It a
 python main.py
 ## 📸 Demo
 
-![Before](images/before.png)
+![Before](images/before.jpg)
 
-![After](images/after.png)
+![After](images/after.jpg)
