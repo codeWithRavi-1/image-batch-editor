@@ -5,6 +5,7 @@ This project is a Python-based image batch editor built using PIL (Pillow). It a
 ---
 
 ## 🚀 Features
+
 - Resize images (with/without aspect ratio)
 - Convert to grayscale
 - Rotate images
@@ -16,18 +17,26 @@ This project is a Python-based image batch editor built using PIL (Pillow). It a
 ---
 
 ## 🛠️ Tech Used
-- Python
+
+- Python  
 - PIL (Pillow)
 
 ---
 
 ## ▶️ How to Run
+
 ```bash
 python main.py
+```
 
+---
 
 ## 📸 Demo
 
+### Before
+
 ![Before](https://raw.githubusercontent.com/codeWithRavi-1/image-batch-editor/main/images/before.jpg)
+
+### After
 
 ![After](https://raw.githubusercontent.com/codeWithRavi-1/image-batch-editor/main/images/after.jpg)
